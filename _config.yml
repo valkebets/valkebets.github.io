@@ -40,7 +40,6 @@ baseurl: ''
 title: 'Valeria Kebets'
 description: ''
 permalink: pretty
-#logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
 
 # site verification
 #webmaster_verifications:
@@ -59,7 +58,7 @@ navigation_header:
 - title: Research
   url: /research/
 - title: CV
-  url: /cv/
+  #url: /cv/
   link: /assets/docs/CV_VK_2022-05.pdf
   name: Curriculum Vitae (PDF)
 
