@@ -4,4 +4,4 @@ title: Research projects
 feature_image: "/assets/images/mountain.jpeg"
 ---
 
-## Research projects.<br/>
+## Research projects
