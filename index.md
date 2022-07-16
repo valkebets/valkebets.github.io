@@ -1,7 +1,7 @@
 ---
 title: Hi!
 layout: page
-feature_image: "/assets/img/mountain.jpeg"
+feature_image: "/assets/images/mountain.jpeg"
 feature_text: |
   
 ---
