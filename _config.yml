@@ -60,6 +60,8 @@ navigation_header:
   url: /research/
 - title: CV
   url: /cv/
+  link: /assets/docs/CV_VK_2022-05.pdf
+  name: Curriculum Vitae (PDF)
 
 # Footer nav
 # navigation_footer:
