@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-feature_image: "/assets/images/cover.jpg"
+feature_image: "/assets/images/mountain.jpeg"
 ---
 
 My name is Valeria Kebets and I'm a postdoc at McGill University (Montreal, Canada). I work on identifying transdiagnostic brain-behavior associations related to psychiatric and neurodevelopmental disorders. <br/>
