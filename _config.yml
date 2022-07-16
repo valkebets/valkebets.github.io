@@ -40,7 +40,7 @@ baseurl: ''
 title: 'Valeria Kebets'
 description: ''
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+#logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
 
 # site verification
 #webmaster_verifications:
@@ -65,9 +65,9 @@ navigation_header:
 # navigation_footer:
 #   Back to top: "#top"
 
- # Site credits
+# Site credits
 navigation_footer:
-   Adopted Alembic Theme: https://alembic.darn.es/
+  Adopted Alembic Theme: https://alembic.darn.es/
 
 # Collections
 collections:
