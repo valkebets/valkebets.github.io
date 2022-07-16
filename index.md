@@ -1,4 +1,5 @@
 ---
+title: Hi!
 layout: page
 feature_image: "/mountain.jpeg"
 feature_text: |
