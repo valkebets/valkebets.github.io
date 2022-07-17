@@ -59,7 +59,8 @@ navigation_header:
   url: /research/
 - title: CV
   url: /cv/
- # link: /assets/docs/CV_VK_2022-05.pdf
+  link: "/cv.html"
+ #link: /assets/docs/CV_VK_2022-05.pdf
  # name: Curriculum Vitae (PDF)
 
 # Footer nav
@@ -68,7 +69,7 @@ navigation_header:
 
 # Site credits
 navigation_footer:
-  Adopted Alembic Theme: https://alembic.darn.es/
+    Adopted Alembic Theme: https://alembic.darn.es/
 
 # Collections
 collections:
