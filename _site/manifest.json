@@ -1,0 +1,9 @@
+{
+  "lang": "en-US",
+  "name": "Valeria Kebets",
+  "short_name": "ValeriaKebets",
+  "theme_color": "#24292e",
+  "background_color": "#ffffff",
+  "start_url": "/",
+  "display": "standalone"
+}
