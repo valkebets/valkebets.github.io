@@ -59,10 +59,10 @@ navigation_header:
 - title: Research
   url: /research/
 - title: CV
- # url: /cv/
+  url: /cv/
  # url: 'https://www.dropbox.com/s/ui2ruap1o73eows/CV_VK_2022-05.pdf?dl=0'
  # link: "/cv.html"
-  url: /assets/docs/CV_VK_2022-05.pdf
+ # url: /assets/docs/CV_VK_2022-05.pdf
  # name: Curriculum Vitae (PDF)
 
 # Footer nav
@@ -74,11 +74,11 @@ navigation_footer:
     Adopted Alembic Theme: https://alembic.darn.es/
 
 # Collections
-collections:
-  posts:
-    title: Research
-    output: true
-    description: "Here are some of my research projects"
+#collections:
+#  posts:
+#    title: Research
+#    output: true
+#    description: "Here are some of my research projects"
 #     feature_text: |
 #       Welcome to my blog
 #    feature_image: "/assets/img/home_cover.jpg"
@@ -87,3 +87,6 @@ contact:
   github:     https://github.com/valkebets
   linkedin:   https://www.linkedin.com/in/valkebets/
   twitter:    https://twitter.com/valeria_kebets
+
+# Publish posts or collection documents with a future date (if different timezone)
+future: true
