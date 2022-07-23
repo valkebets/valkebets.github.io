@@ -60,7 +60,8 @@ navigation_header:
   url: /research/
 - title: CV
   url: /cv/
-  link: "/cv.html"
+  link: "https://www.dropbox.com/s/ui2ruap1o73eows/CV_VK_2022-05.pdf?dl=0"
+ # link: "/cv.html"
  #link: /assets/docs/CV_VK_2022-05.pdf
  # name: Curriculum Vitae (PDF)
 
