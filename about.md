@@ -20,6 +20,6 @@ You can find a complete list of my publications on my [Google Scholar](https://s
 
 ## Contact details
 Valeria Kebets, PhD<br/>
-valkebets / at / gmail.com <br/><br/>
+valkebets / at / gmail.com <br/>
 
 <a href="https://www.linkedin.com/in/valkebets/"><img src="https://raw.githubusercontent.com/valkebets/valkebets.github.io/main/assets/icons/linkedin-brands.svg" width="50" height="50"></a> <a href="https://github.com/valkebets"><img src="https://raw.githubusercontent.com/valkebets/valkebets.github.io/main/assets/icons/github-brands.svg" width="50" height="50"></a> <a href="http://orcid.org/0000-0003-1707-7437"><img src="https://raw.githubusercontent.com/valkebets/valkebets.github.io/main/assets/icons/orcid-brands.svg" width="50" height="50"></a> <a href="https://www.twitter.com/valeria_kebets"><img src="https://raw.githubusercontent.com/valkebets/valkebets.github.io/main/assets/icons/twitter-brands.svg" width="50" height="50"></a>
