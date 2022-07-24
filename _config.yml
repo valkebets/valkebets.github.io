@@ -47,7 +47,7 @@ social: # jekyll-seo-tag > social overrides
 # Site settings
 url: 'valkebets.github.io'
 baseurl: ''
-title: "Valeria Kebets's personal website"
+title: "Valeria Kebets"
 description: ''
 permalink: pretty
 
