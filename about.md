@@ -6,7 +6,7 @@ feature_image: "/assets/images/mountain.jpeg"
 
 
 <p align="left">
-   <img src="/assets/images/cover.jpg" align="right" height="290" width="220" /> 
+   <img src="/assets/images/cover.jpg" align="right" height="400" width="300" /> 
 
 My name is Valeria Kebets and I'm a postdoctoral researcher at McGill University. I work on identifying neuroimaging-based markers underlying psychiatric and neurodevelopmental symptoms, using cutting edge neuroimaging, brain network analysis, and multivariate techniques based on large-scale datasets. <br/>
 <br/>
