@@ -1,6 +1,5 @@
 # Set theme
 remote_theme: daviddarnes/alembic@main
-#theme: alembic-jekyll-theme
 
 # File excludes
 exclude:
@@ -16,7 +15,6 @@ plugins:
 - jekyll-seo-tag
 - jekyll-redirect-from
 - jekyll-feed
-- jekyll-default-layout
 - jekyll-commonmark
 - jekyll-include-cache
 - jemoji
@@ -60,16 +58,20 @@ permalink: pretty
 
 # Header nav
 navigation_header:
-  Home: /
-  About: /about/
-  Research: /research/
-  CV: /cv/
+- title: Home
+  url: /
+- title: About
+  url: /about/
+- title: Research
+  url: /research/
+- title: CV
+  url: /cv/
 
 # Footer nav
 # navigation_footer:
 #   Back to top: "#top"
 
-# Site credits
+# Footer navigation - set site credits
 navigation_footer:
   Adopted Alembic Theme: https://alembic.darn.es/
 
