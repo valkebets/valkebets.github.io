@@ -47,8 +47,8 @@ permalink: pretty
 #webmaster_verifications:
 #  google: lB694ugK6e26p5fJs37qYbdvaozzE4dr219OLEdjgAI
 
-# Pagination
-paginate: 5
+# Pagination (max posts shown on a page)
+#paginate: 5
 #paginate_path: blog/page:num
 
 # Header nav
@@ -61,18 +61,14 @@ navigation_header:
   url: /research/
 - title: CV
   url: /cv/
- # url: 'https://www.dropbox.com/s/ui2ruap1o73eows/CV_VK_2022-05.pdf?dl=0'
- # link: "/cv.html"
- # url: /assets/docs/CV_VK_2022-05.pdf
- # name: Curriculum Vitae (PDF)
 
 # Footer nav
-# navigation_footer:
-#   Back to top: "#top"
+ navigation_footer:
+   Back to top: "#top"
 
 # Site credits
-navigation_footer:
-    Adopted Alembic Theme: https://alembic.darn.es/
+#navigation_footer:
+#    Adopted Alembic Theme: https://alembic.darn.es/
 
 # Collections
 #collections:
