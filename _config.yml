@@ -1,13 +1,12 @@
 # Set theme
-#remote_theme: daviddarnes/alembic@main
-theme: alembic-jekyll-theme
+remote_theme: daviddarnes/alembic@main
+#theme: alembic-jekyll-theme
 
 # File excludes
 exclude:
 - README.md
 - Gemfile
 - Gemfile.lock
-- node_modules
 
 # Set plugins
 plugins:
@@ -17,13 +16,21 @@ plugins:
 - jekyll-seo-tag
 - jekyll-redirect-from
 - jekyll-feed
+- jekyll-default-layout
 - jekyll-commonmark
 - jekyll-include-cache
 - jemoji
 - jekyll-remote-theme
 
-#compress_html:
-#  clippings: all
+# Gem settings
+sass:
+  style: compressed
+  sass_dir: _sass
+  
+compress_html:
+  clippings: all
+
+jekyll-mentions: https://twitter.com #base url for jekyll mentions
 
 twitter:
   username: valeria_kebets # jekyll-seo-tag > Owner's twitter username
@@ -37,7 +44,7 @@ social: # jekyll-seo-tag > social overrides
     - https://github.com/valkebets
 
 # Site settings
-url: 'https://valkebets.github.io/'
+url: 'valkebets.github.io'
 baseurl: ''
 title: 'Valeria Kebets'
 description: ''
@@ -53,22 +60,18 @@ permalink: pretty
 
 # Header nav
 navigation_header:
-- title: Home
-  url: /
-- title: About
-  url: /about/
-- title: Research
-  url: /research/
-- title: CV
-  url: /cv/
+  Home: /
+  About: /about/
+  Research: /research/
+  CV: /cv/
 
 # Footer nav
- navigation_footer:
-   Back to top: "#top"
+# navigation_footer:
+#   Back to top: "#top"
 
 # Site credits
-#navigation_footer:
-#    Adopted Alembic Theme: https://alembic.darn.es/
+navigation_footer:
+  Adopted Alembic Theme: https://alembic.darn.es/
 
 # Collections
 #collections:
@@ -86,4 +89,4 @@ contact:
   twitter:    https://twitter.com/valeria_kebets
 
 # Publish posts or collection documents with a future date (if different timezone)
-future: true
+#future: true
