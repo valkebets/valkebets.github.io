@@ -12,4 +12,3 @@ gem "jekyll-include-cache", "~> 0.2"
 gem "jemoji", "~> 0.12"
 gem "jekyll-remote-theme", "~> 0.3"
 gem "webrick"
-gem 'jekyll-default-layout'
