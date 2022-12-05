@@ -11,7 +11,7 @@ Most neuropsychiatric disorders are of neurodevelopmental origin, and their stud
 *Relevant publications:*
 * [**Somatosensory-motor dysconnectivity spans multiple transdiagnostic dimensions of psychopathology**](https://www.sciencedirect.com/science/article/pii/S0006322319314751). Kebets V, Holmes AJ, Orban C, Tang S, Li J, Sun N, Kong R, Poldrack RA, Yeo BTT. *Biological Psychiatry (2019), 86, 779-91* <br>
 * [**Fronto-limbic neural variability as a transdiagnostic correlate of emotion dysregulation**](https://doi.org/10.1038/s41398-021-01666-3). Kebets V, Favre P, Houenou J, Polosan M, Perroud N, Aubry JM, Van De Ville D, Piguet C. *Translational Psychiatry (2021), 11, 545* <br>
-* [**Multilevel neural gradients reflect transdiagnostic effects of major psychiatric conditions on cortical morphology**](https://doi.org/10.1101/2021.10.29.466434). Park B, Kebets V, Larivière S, Hettwer MD, Paquola C, van Rooij D, Buitelaar J, Franke B, Hoogman M, Schmaal L, Veltman DJ, van den Heuvel O, Stein DJ, Andreassen OA, Ching CRK, Turner J, van Erp TGM, Evans AC, Dagher A, Thomopoulos SI, Thompson PM, Valk SL, Kirschner M, Bernhardt BC. *Communications Biology (accepted)* <br>
+* [**Multilevel neural gradients reflect transdiagnostic effects of major psychiatric conditions on cortical morphology**](https://doi.org/10.1038/s42003-022-03963-z). Park B, Kebets V, Larivière S, Hettwer MD, Paquola C, van Rooij D, Buitelaar J, Franke B, Hoogman M, Schmaal L, Veltman DJ, van den Heuvel O, Stein DJ, Andreassen OA, Ching CRK, Turner J, van Erp TGM, Evans AC, Dagher A, Thomopoulos SI, Thompson PM, Valk SL, Kirschner M, Bernhardt BC. *Communications Biology (2022), 5(1), 1-14* <br>
 
 ##### Development of imaging-based disease biomarkers
 
