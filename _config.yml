@@ -50,6 +50,7 @@ baseurl: ''
 title: "Valeria Kebets"
 description: ''
 permalink: pretty
+avatarurl: "/assets/images/brain_avatar.png"
 
 # site verification
 #webmaster_verifications:
