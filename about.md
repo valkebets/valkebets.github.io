@@ -6,7 +6,7 @@ feature_image: "/assets/images/mountain.jpeg"
 
 <img src="/assets/images/cover.jpg" align="right" height="300" width="220" /> 
 
-My name is Valeria Kebets and I'm manager of machine learning projects at the Concordia University's Applied AI Institute.
+My name is Valeria Kebets and I'm manager of machine learning projects at Concordia University's Applied AI Institute.
 
 Previously, I was a postdoctoral researcher at McGill University, where I worked on identifying neuroimaging-based markers underlying psychiatric and neurodevelopmental symptoms using cutting edge neuroimaging, brain network analysis, and machine learning techniques based on large-scale datasets.
 
